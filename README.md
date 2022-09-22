@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a junior PHP Developer 
+Since May 2022, I have been studying at Hexlet under the PHP developer program
+Аt the moment I have completed 2 projects out of 4
 
 <!--
 **StanislavShein/StanislavShein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
